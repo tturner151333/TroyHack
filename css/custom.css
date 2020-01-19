@@ -38,8 +38,8 @@ main .img-thumbnail {
 }
 
 main table img:hover {
-    border: solid 5px #780030;
+    border: solid 5px #780030 !important;
     margin: -5px;
     transform: scale(1.2);
-    background-color: rgba(56, 0, 22, 0.1);
+    background-color: rgba(56, 0, 22, 0.4);
 }
